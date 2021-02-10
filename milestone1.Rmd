@@ -1,0 +1,12 @@
+---
+title: "milestone1"
+author: "Christopher Snopek"
+date: "2/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+ 
+I am thinking of doing a final project on the MLB draft. I want to find a thorough data set on the draft throughout the years and make interesting conclusions on that data. I want to see if I can find something that maybe some MLB teams overlook when drafting certain players. I want to see if that same thing that teams overlook impacts the organization the years following a draft. I will be cool to combine the world of statistics with baseball for the first time for me. I look forward to finding something awesome.
